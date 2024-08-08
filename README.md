@@ -1,4 +1,4 @@
-![freepik-export-20240808092822QIzD](https://github.com/user-attachments/assets/9bded26f-3141-4f56-acae-c56b9238da01)
+![freepik-export-20240808094409eLxq](https://github.com/user-attachments/assets/bf620f7e-8c41-47b4-9e10-327a3d88ecf0)
 <h1 align="center">Hi 👋, I'm Klevis Perfundi</h1>
 <h3 align="center">A passionate backend developer from Albania</h3>
 <img align="right" alt="Coding" width="400"
