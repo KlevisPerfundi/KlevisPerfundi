@@ -1,4 +1,4 @@
-![logo](https://www.avisto.com/wp-content/uploads/2019/11/java-developer.jpg)
+![freepik-export-20240808092822QIzD](https://github.com/user-attachments/assets/9bded26f-3141-4f56-acae-c56b9238da01)
 <h1 align="center">Hi 👋, I'm Klevis Perfundi</h1>
 <h3 align="center">A passionate backend developer from Albania</h3>
 <img align="right" alt="Coding" width="400"
