@@ -1,4 +1,4 @@
-[![MasterHead](https://www.avisto.com/wp-content/uploads/2019/11/java-developer.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.avisto.com/wp-content/uploads/2019/11/java-developer.jpg)]
 <h1 align="center">Hi 👋, I'm Klevis Perfundi</h1>
 <h3 align="center">A passionate backend developer from Albania</h3>
 <img align="right" alt="Coding" width="400"
